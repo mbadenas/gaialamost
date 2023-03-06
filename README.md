@@ -1,2 +1,3 @@
-# Gaia EDR3/LAMOST Catalogue of Polluted White Dwarfs
+# gaialamost
+Gaia EDR3/LAMOST Catalogue of Polluted White Dwarfs
 
